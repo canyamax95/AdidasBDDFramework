@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="7" time="0">
+    <testcase classname="Adidas Login Testing" name="Login with correct email and correct password" time="0">
+        <system-out><![CDATA[Given This is a valid login test............................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Adidas Login Testing" name="Verify top page links" time="0">
+        <system-out><![CDATA[Given Clicking on top page links............................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Adidas Login Testing" name="Search anything" time="0">
+        <system-out><![CDATA[Given Clicking on search box................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Adidas Login Testing" name="Search for orders" time="0">
+        <system-out><![CDATA[Given Clicking on order link................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Adidas Login Testing" name="Go to account info" time="0">
+        <system-out><![CDATA[Given Clicking on account link..............................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Adidas Login Testing" name="Account Logout" time="0">
+        <system-out><![CDATA[Given This is a logout test.................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Adidas Login Testing" name="Browser closed" time="0">
+        <system-out><![CDATA[Given This is a close browser test..........................................skipped
+]]></system-out>
+    </testcase>
+</testsuite>

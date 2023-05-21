@@ -1,0 +1,217 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Login with correct email and correct password",
+        "description": "",
+        "id": "adidas-login-testing;login-with-correct-email-and-correct-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "This is a valid login test",
+            "match": {
+              "location": "TagginStepDefinition.this_is_a_valid_login_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 4,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "line": 9,
+        "name": "Verify top page links",
+        "description": "",
+        "id": "adidas-login-testing;verify-top-page-links",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "Clicking on top page links",
+            "match": {
+              "location": "TagginStepDefinition.clicking_on_top_page_links()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 8,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "Search anything",
+        "description": "",
+        "id": "adidas-login-testing;search-anything",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "Clicking on search box",
+            "match": {
+              "location": "TagginStepDefinition.clicking_on_search_box()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 12,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "Search for orders",
+        "description": "",
+        "id": "adidas-login-testing;search-for-orders",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 18,
+            "name": "Clicking on order link",
+            "match": {
+              "location": "TagginStepDefinition.clicking_on_order_link()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 16,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 16,
+            "name": "@End2End"
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Go to account info",
+        "description": "",
+        "id": "adidas-login-testing;go-to-account-info",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "Clicking on account link",
+            "match": {
+              "location": "TagginStepDefinition.clicking_on_account_link()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 20,
+            "name": "@SmokeTest"
+          },
+          {
+            "line": 20,
+            "name": "@End2End"
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "name": "Account Logout",
+        "description": "",
+        "id": "adidas-login-testing;account-logout",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 26,
+            "name": "This is a logout test",
+            "match": {
+              "location": "TagginStepDefinition.this_is_a_logout_test()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 24,
+            "name": "@End2End"
+          }
+        ]
+      },
+      {
+        "line": 28,
+        "name": "Browser closed",
+        "description": "",
+        "id": "adidas-login-testing;browser-closed",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "This is a close browser test",
+            "match": {
+              "location": "TagginStepDefinition.this_is_a_close_browser_test()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Adidas Login Testing",
+    "description": "",
+    "id": "adidas-login-testing",
+    "keyword": "Feature",
+    "uri": "C:/QA/Selenium_Workspace/AdidasBDDFramework/src/main/java/Features/tagging.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@FunctionalTest"
+      }
+    ]
+  }
+]
